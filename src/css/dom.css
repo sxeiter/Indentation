@@ -1,0 +1,35 @@
+.dom__title {
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 120%;
+  margin-bottom: 30px;
+}
+
+.dom__text {
+  font-size: 20px;
+  line-height: 120%;
+}
+
+.dom__text:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.dom__img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.dom__figure {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  border: 1px solid black;
+}
+
+.dom__figcaption {
+  font-size: 20px;
+  line-height: 120%;
+  color: #5E5E5E;
+  padding: 15px 30px;
+}

@@ -1,0 +1,16 @@
+.header__title {
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 120%;
+  margin-bottom: 30px;
+}
+
+.header__text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+}
+
+.header__text:not(:last-child) {
+  margin-bottom: 30px;
+}

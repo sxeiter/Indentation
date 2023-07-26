@@ -1,0 +1,33 @@
+.total__container {
+  background: #F1F1F1;
+  border-radius: 10px;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 25px 45px;
+}
+
+.total__title {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 120%;
+  margin-bottom: 20px;
+}
+
+.total__list {
+  list-style-position: inside;
+  margin-bottom: 30px;
+}
+
+.total__item {
+  font-size: 20px;
+  line-height: 120%;
+}
+
+.total__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.total__text {
+  font-size: 20px;
+  line-height: 120%;
+}
