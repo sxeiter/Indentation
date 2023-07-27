@@ -14,10 +14,9 @@ body {
   background-color: #ffffff;
   min-width: 320px;
   min-height: 100vh;
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: "Roboto", Helvetica, sans-serif;
   font-style: normal;
 }
-
 
 img,
 svg {
@@ -25,7 +24,6 @@ svg {
   max-height: 100%;
   height: auto;
 }
-
 
 button {
   padding: 0;
@@ -70,7 +68,6 @@ iframe {
   transform: scale(0);
 }
 
-
 /*
   Пример контейнера
   
@@ -85,6 +82,7 @@ iframe {
   padding: 0 auto;
   margin: 0 auto;
   padding: 0 30px;
+  margin-bottom: 50px;
 }
 
 /* Берем расстояние между секций, делим пополам */
